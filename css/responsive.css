@@ -1,0 +1,1597 @@
+@media only screen and (max-width: 768px) and (max-width: 620px) {
+    .button-form {
+        margin-top: 30px;
+    }
+
+    /*************************************/
+    .input-area {
+        margin: 0 !important;
+    }
+
+    .input-area input {
+        margin: 0 !important;
+    }
+
+    label {
+        font-size: 12px;
+        line-height: 100%;
+        text-transform: capitalize;
+        font-weight: 600;
+        font-family: Montserrat;
+        text-align: left;
+        color: #333;
+    }
+
+    .unbiased-buying-advice {
+        padding-left: 10px;
+        margin-top: 6%;
+        position: relative;
+        font-size: 18px;
+        line-height: 100%;
+        text-transform: capitalize;
+        font-family: Montserrat;
+        color: #333;
+        text-align: left;
+    }
+
+    .unbiased-buying-advice p{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 0px;
+    }
+
+    .assistance-in-finance {
+        padding-left: 10px;
+        margin-top: 8%;
+        position: relative;
+        font-size: 18px;
+        line-height: 100%;
+        text-transform: capitalize;
+        font-family: Montserrat;
+        color: #333;
+        text-align: left;
+    }
+
+    .assistance-in-finance p{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 0px;
+    }
+
+    .lowest-price-guaranteed {
+        padding-left: 10px;
+        margin-top: 8%;
+        position: relative;
+        font-size: 18px;
+        line-height: 100%;
+        text-transform: capitalize;
+        font-family: Montserrat;
+        color: #333;
+        text-align: left;
+    }
+
+    .lowest-price-guaranteed p {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 0px;
+    }
+
+    .whybikesetu-img {
+        display: block;
+        margin: 0px 10px 0px 10px;
+
+    }
+
+    .whybikesetu-para1 {
+        margin-top: 4px;
+        position: relative;
+        font-size: 12px;
+        letter-spacing: 0.01em;
+        line-height: 150%;
+        font-weight: 500;
+        font-family: Montserrat;
+        color: #000000;
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        
+
+    }
+
+
+    .sellcarrform .sellcarrform-inner {
+        padding: 5px;
+        width: 100%;
+        position: relative;
+    }
+
+    .sellcarrform {
+        height: auto;
+        padding: 5%;
+        border: 2px solid #00B3B6;
+    }
+
+    .sellcarrform button {
+        margin: 0% !important;
+
+    }
+
+    .whybikesetu-img img {
+        border-radius: 50%;
+        height: auto;
+        width: 34%;
+        margin: 0% 33% 0% 33%;
+    }
+
+    .supportSection {
+        margin-left: 0px;
+        margin-top: 0px;
+        margin-bottom: 35px;
+    }
+
+    .supportColumn {
+        margin-top: 46px;
+        padding: 5px;
+        border-radius: 0px;
+        border: none;
+        height: auto;
+        width: 100%;
+        margin: 0%;
+        background: #ffffff;
+    }
+
+    .column-support {
+        padding: 6%;
+    }
+
+    .bikesetu-sales img {
+
+        object-fit: none;
+        height: 675px;
+        width: 100%;
+
+    }
+
+    .parentimage {
+        height: 715px;
+        /* Adjust height as needed */
+        width: 100%;
+        object-fit: cover;
+        object-position: center top;
+        /* Adjust to crop from top */
+        -webkit-transform: scaleX(-1);
+        position: relative;
+
+        transform: scaleX(-1);
+
+    }
+
+    .talk-to-sales-expert {
+        margin-top: 30px;
+        border-radius: 8px;
+        background: #00B3B6;
+        display: flex;
+        padding: 15px;
+        justify-content: center;
+        align-items: center;
+        gap: 7px;
+        align-self: stretch;
+        color: #fff;
+    }
+
+    .expert-phone-number-container {
+        margin-top: 30px;
+        opacity: 0.5;
+        color: #000;
+        font-family: Montserrat;
+        font-size: 12px;
+        font-style: normal;
+
+        line-height: 13px;
+        letter-spacing: 0.5px;
+    }
+
+    .still-ques {
+
+        color: #000;
+        font-family: Montserrat;
+        font-size: 26px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 100%;
+
+
+    }
+
+    .still-paragraph {
+        opacity: 0.5;
+        color: #000;
+        font-family: Montserrat;
+        font-size: 11px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 13px;
+        letter-spacing: 0.5px;
+        text-align: left;
+        margin-top: 20px;
+
+
+    }
+
+    .card-container {
+
+        position: absolute;
+        top: 25%;
+        left: 0%;
+        padding: 25px 18px;
+
+        background-color: rgba(255, 255, 255);
+        /* Adjust opacity as needed */
+        margin-right: 7%;
+        margin-left: 7%;
+        border-radius: 16px;
+        text-align: left;
+    }
+
+    /************************************/
+
+    .similarbrands {
+        display: block;
+        height: auto;
+        width: fit-content;
+        margin: 10px 0px 0px 16px;
+        padding: 0px;
+        gap: 0px;
+    }
+
+
+    /* .col-lg-2.col-4 {
+        flex: 0 0 50%;
+        max-width: 50%;
+    } */
+    .Gallery {
+        margin-top: 5px;
+        height: 450px;
+        width: 100%;
+        overflow-y: scroll;
+    }
+
+    .calltoAction {
+        width: 100%;
+    }
+
+    .container-fluid,
+    .container-lg,
+    .container-md,
+    .container-sm,
+    .container-xl,
+    .container-xxl {
+        width: 100%;
+        padding-right: 15px;
+        padding-left: 15px;
+        margin-right: auto;
+        margin-left: auto;
+    }
+
+    /*=========================================*/
+    header {
+        padding: 0px 15px;
+        height: 60px;
+    }
+
+    .sellsection-content h1 {
+        font-size: 40px;
+    }
+
+
+    .logo img {
+        width: 110px;
+    }
+
+    .header-search {
+        display: none;
+    }
+
+    header .navbar {
+        display: none;
+    }
+
+    .header-right {
+        margin-left: 0px;
+    }
+
+    /*=========================================*/
+    .section-gap {
+        padding: 0px;
+    }
+
+    .section-small-gap {
+        padding: 20px 0px 20px;
+    }
+
+    .section-title {
+        width: 100%;
+        position: relative;
+
+    }
+
+    .section-title .sub-title {
+        font-size: 28px;
+        gap: 10px;
+        display: flex;
+        align-items: center;
+        position: relative;
+        justify-content: center;
+        text-align: center;
+    }
+
+    .sub-title .shape {
+        display: inline-block;
+        height: 3px;
+        width: 20px;
+        background-color: #61a1bb;
+        border-radius: 99px;
+        position: relative;
+        display: none;
+    }
+
+    /*=========================================*/
+    .citymodal-section {
+        padding: 55px 15px;
+    }
+
+    /*=========================================*/
+    .dsubheader {
+        display: flex;
+        padding: 5px 0px
+    }
+
+    .dsubheader h1 {
+        font-size: 16px;
+        margin: 0;
+        font-weight: 600;
+    }
+
+    .dsubheader .breadcrumb-item {
+        font-size: 11px;
+    }
+
+    .buttonab-small {
+        height: 35px;
+        text-align: center;
+        border-radius: 5px;
+        font-size: 13px;
+        font-weight: 500;
+        background: #ef4b46;
+        line-height: 34px;
+        color: #fff;
+        min-width: 80px;
+        border: 1px solid #ef4b46;
+        moz-transition: all .4s ease-in-out;
+        -o-transition: all .4s ease-in-out;
+        -webkit-transition: all .4s ease-in-out;
+        transition: all .4s ease-in-out;
+        display: inline-block;
+    }
+
+    /*=========================================*/
+    .location {
+        height: 35px;
+        font-size: 9px;
+        width: 122px;
+        border: 1px solid #ddd;
+        margin-right: 5px;
+        margin-left: 10px;
+    }
+
+    .sign-label {
+        display: none;
+    }
+
+    .header-right .icon-box-icon {
+        width: 35px;
+        height: 35px;
+        border: 1px solid #ddd;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: 5px;
+        font-size: 14px;
+        margin-right: 0px !important;
+    }
+
+    .tablist ul li {
+        font-size: 12px;
+    }
+
+    .dealerinve-box-list ul li {
+        display: inline-block;
+        padding: 0px 15px 10px 0px;
+        margin-right: 15px;
+        position: relative;
+        width: 28%;
+        line-height: 21px;
+    }
+
+    .dealerinve-box-list ul li span {
+        font-size: 11px;
+        color: #888;
+    }
+
+    .dealerinve-box-list ul li p {
+        margin-bottom: 0px;
+        font-weight: 600;
+        text-transform: capitalize;
+        font-size: 13px;
+    }
+
+    /*=========================================*/
+    .mySwiper2 .swiper-slide img {
+        width: 100%;
+        position: relative;
+        height: 268px;
+        object-fit: cover;
+        border-radius: 5px;
+        box-shadow: rgb(33 33 33 / 6%) 0 4px 24px 5px;
+    }
+
+    .mySwiper {
+        margin-bottom: 20px;
+    }
+
+    .mySwiper .swiper-slide img {
+        width: 100%;
+        position: relative;
+        height: 85px;
+        object-fit: cover;
+        border-radius: 5px;
+        box-shadow: rgb(33 33 33 / 6%) 0 4px 24px 5px;
+    }
+
+    /*=========================================*/
+    .dealerlogin-section {
+        width: 100%;
+        height: 100%;
+        display: flex;
+        background-color: #FAFAFA;
+        position: absolute;
+        left: 0;
+        top: 0;
+        flex-direction: column;
+    }
+
+    .dealerlogin-section .delleft {
+        width: 100%;
+        background-color: #FAFAFA;
+        height: 100%;
+        padding: 50px;
+        text-align: center;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .dealerlogin-section .delright {
+        width: 100%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+        padding: 25px;
+        background: #fff;
+    }
+
+    /*=========================================*/
+    .vehicaltab-size .nav {
+        display: flex;
+        overflow-x: scroll;
+        flex-wrap: nowrap;
+        justify-content: flex-start;
+    }
+
+    .vehicaltab-size .nav-tabs .nav-link {
+        min-width: 100px;
+        font-size: 11px;
+        padding: 0.7rem 0.7rem 0.3rem;
+        border-radius: 5px;
+    }
+
+    .vehicaltab-size .nav-tabs .nav-link .img-box {
+        margin-bottom: 0px;
+    }
+
+    /*=========================================*/
+    .carbox {
+        border-radius: 5px;
+    }
+
+    .carbox .carboximg img {
+        border-radius: 5px 5px 0px 0px;
+        height: 150px;
+    }
+
+    .carbox .carboxcontent {
+        padding: 10px;
+        width: 100%;
+        position: relative;
+    }
+
+    .mcarbox .carboximg img {
+
+        height: 100%;
+    }
+
+    .mcarbox .carboxcontent {
+        padding: 10px;
+        width: 100%;
+        position: relative;
+    }
+
+    .carbox h3 {
+        font-size: 14px;
+    }
+
+    .carbox ul li {
+        display: inline-block;
+        font-size: 11px;
+        color: #6c757d;
+        text-transform: capitalize;
+        position: relative;
+    }
+
+    .carbox ul li:not(:first-child) {
+        margin-left: 0.7em;
+    }
+
+    .carbox ul li:not(:first-child)::before {
+        background: #009193;
+        border-radius: 50%;
+        content: "";
+        display: inline-block;
+        height: 2px;
+        left: -4px;
+        position: absolute;
+        top: 50%;
+        width: 2px;
+    }
+
+    .carboxprice-sale {
+        font-size: 14px;
+        font-weight: 600;
+    }
+
+    /*=========================================*/
+    .carboxm-big {
+        display: flex;
+        padding: 10px;
+    }
+
+    .carboxm-big .carboximg {
+        width: 200px;
+        margin-top: 24px;
+        position: relative;
+        overflow: hidden;
+    }
+
+    .carboxm-big .carboximg img {
+        height: 100px;
+        border-radius: 5px;
+    }
+
+    .carboxm-big .carboxcontent {
+        padding: 0px 25px 10px 15px;
+    }
+
+    .carboxm-big h3 {
+        font-size: 13px;
+        margin-bottom: 5px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        display: -webkit-box;
+        -webkit-line-clamp: 2;
+        -webkit-box-orient: vertical;
+        font-weight: 500;
+        line-height: 20px;
+    }
+
+    .carboxm-big ul li {
+        display: inline-block;
+        font-size: 12px;
+        color: #6c757d;
+        text-transform: capitalize;
+        position: relative;
+    }
+
+    .carboxm-big .carboxprice-sale {
+        font-size: 16px;
+        font-weight: 600;
+    }
+
+    /*=========================================*/
+    .brandbox {
+        height: 90px;
+        border-radius: 5px;
+        box-shadow:  1px 1px 0px 0px #d3d3d3;
+    }
+
+    .brandbox img {
+        width: 75px;
+        margin-bottom: 5px;
+    }
+
+    .brandbox p {
+        font-size: 12px;
+    }
+
+    /*=========================================*/
+    .page-title {
+        font-size: 16px;
+        font-weight: 600;
+    }
+
+    /*=========================================*/
+    .accordion-button {
+        font-size: 12px;
+        padding: 1rem 0.75rem;
+    }
+
+    /*=========================================*/
+    .homeslider h2 {
+        font-size: 24px;
+        font-weight: 600;
+    }
+
+    .vehicalsearch {
+        max-width: 100%;
+        padding: 0 15px;
+        width: 100%;
+        margin: 30px auto 0px;
+    }
+
+    .vehicalsearchform {
+        display: flex;
+        z-index: 2;
+        width: 100%;
+        background: #fff;
+        border-radius: 10px;
+        padding: 15px;
+        box-shadow: 0 3px 6px 0 rgba(0, 0, 0, .16);
+        position: relative;
+        flex-direction: column;
+    }
+
+    .vehicalsearch .vehicalsearchbottom {
+        content: "";
+        display: block;
+        position: absolute;
+        bottom: -9px;
+        left: 0;
+        background: #fff;
+        width: 100%;
+        height: 50%;
+        border-bottom-left-radius: 10px;
+        border-bottom-right-radius: 10px;
+        opacity: .59;
+    }
+
+    .vehicalsearchform .vehicalsearchform-field {
+        margin: 5px 0px;
+        width: 100%;
+    }
+
+    .vehicalsearchform-buuton .vehica-button {
+        width: 100%;
+        height: 53px;
+        padding-left: 0;
+        padding-right: 0;
+        border-radius: 10px;
+        background-color: #e40d06;
+        border: 0 solid transparent;
+        box-shadow: none;
+        cursor: pointer;
+        overflow: hidden;
+        display: inline-block;
+        font-size: 17px;
+        line-height: 21px;
+        font-weight: 600;
+        text-align: center;
+        color: #fff;
+    }
+
+    .vehicalsearchform-buuton {
+        margin-left: 0;
+        margin-top: 5px;
+    }
+
+    /*=========================================*/
+    .siderbar-filter {
+        display: none;
+    }
+
+    .sidenav-trigger {
+        display: block;
+        margin-right: 15px;
+        cursor: pointer;
+    }
+
+    .side-menu-icon img {
+        width: 20px;
+    }
+
+    /*=========================================*/
+    .icbox {
+        width: 100%;
+        position: relative;
+        flex-direction: column;
+        justify-content: center;
+        text-align: center;
+    }
+
+    .icbox .icbox-img {
+        margin-right: 0px;
+        margin-bottom: 10px;
+    }
+
+    .icbox svg {
+        width: 62px;
+        display: inline-block;
+        height: 62px;
+        margin: 0 auto;
+    }
+
+    .icbox h5 {
+        font-size: 16px;
+        font-weight: 600;
+        margin-bottom: 0px;
+    }
+
+    .icbox p {
+        font-size: 12px;
+    }
+
+    .whatsapp img {
+        width: 42px;
+    }
+
+    /*=========================================*/
+
+    .vehicaldet-footer {
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+        z-index: 9999999;
+        background: #fff;
+        display: flex;
+        align-items: center;
+        padding: 10px 15px;
+        margin: 0px;
+    }
+
+    .vehicaldetbox-price {
+        font-weight: 700;
+        font-size: 20px;
+        width: 200px;
+    }
+
+    .vehicaldetbox-buttongroup {
+        margin-top: 0px;
+        margin-left: auto;
+        flex: 1;
+    }
+
+    .vehicaldetbox-buttongroup button {
+        height: 45px;
+        line-height: 38px;
+    }
+
+    /*=========================================*/
+
+
+
+
+    .sellsection-botttom {
+        width: 100%;
+        position: relative;
+        margin-top: -160px;
+
+    }
+
+
+    .sellsection-botttom .sellsection-botttom-image {
+        width: 100%;
+        text-align: center;
+    }
+
+    .sellsection-botttom-image img {
+        width: 100%;
+
+    }
+
+    .doneimg {
+        max-width: 322px;
+    }
+
+    .enqure {
+        width: 100%;
+    }
+
+    .productImage img {
+        width: 325px;
+        height: 264px;
+        margin-top: 0px;
+    }
+
+
+}
+
+/*=========================================*/
+@media (min-width: 576px) {
+    .container-fluid {
+        max-width: 540px;
+    }
+}
+
+@media (min-width: 768px) {
+    .container-fluid {
+        max-width: 720px;
+    }
+
+    .sellsection-botttom {
+        width: 100%;
+        position: relative;
+        margin-top: -230px;
+
+    }
+
+    .talktoexpert {
+        color: #009193;
+        float: right;
+
+        margin-left: auto;
+        font-size: 14px;
+        font-weight: 800;
+        font-family: sans-serif;
+        padding: 2px 14px 2px 14px;
+    }
+}
+
+@media (min-width: 992px) {
+    .container-fluid {
+        max-width: 960px;
+    }
+}
+
+@media (min-width: 1400px) {
+    .container {
+        max-width: 1140px;
+    }
+}
+
+@media (min-width: 1200px) {
+
+    .container-fluid {
+        max-width: 1140px;
+    }
+}
+
+@media screen and (orientation: landscape) {
+    #toolbar {
+        position: fixed;
+        width: 2.65em;
+        height: 100%;
+    }
+
+    /*=========================================*/
+    /*=========================================*/
+}
+
+@media only screen and (max-width: 768px) and (max-width: 620px) {
+
+
+    /* .col-lg-2.col-4 {
+            flex: 0 0 50%;
+            max-width: 50%;
+        } */
+
+    .mobile-view {
+        font-size: 14px;
+        text-align: center;
+        font-weight: 400;
+    }
+
+    .talktoexpert {
+        color: #009193;
+        float: right;
+
+        margin-left: auto;
+        font-size: 14px;
+        font-weight: 800;
+        font-family: sans-serif;
+        padding: 2px 14px 2px 14px;
+
+    }
+
+    .container-fluid,
+    .container-lg,
+    .container-md,
+    .container-sm,
+    .container-xl,
+    .container-xxl {
+        width: 100%;
+        padding-right: 15px;
+        padding-left: 15px;
+        margin-right: auto;
+        margin-left: auto;
+    }
+
+    /*=========================================*/
+    header {
+        padding: 0px 15px;
+        height: 60px;
+    }
+
+    .sellsection-content h1 {
+        font-size: 40px;
+    }
+
+
+    .logo img {
+        width: 110px;
+    }
+
+    .header-search {
+        display: none;
+    }
+
+    header .navbar {
+        display: none;
+    }
+
+    .header-right {
+        margin-left: 0px;
+    }
+
+    /*=========================================*/
+    .section-gap {
+        padding: 0px;
+    }
+
+
+    .section-small-gap {
+        padding: 20px 0px 20px;
+    }
+
+    .section-title {
+        width: 100%;
+        position: relative;
+
+    }
+
+    .section-title .sub-title {
+        font-size: 28px;
+        gap: 10px;
+        display: flex;
+        align-items: center;
+        position: relative;
+        justify-content: center;
+        text-align: center;
+    }
+
+    .sub-title .shape {
+        display: inline-block;
+        height: 3px;
+        width: 20px;
+        background-color: #61a1bb;
+        border-radius: 99px;
+        position: relative;
+        display: none;
+    }
+
+    /*=========================================*/
+    .citymodal-section {
+        padding: 55px 15px;
+    }
+
+    /*=========================================*/
+    .dsubheader {
+        display: flex;
+        padding: 5px 0px
+    }
+
+    .dsubheader h1 {
+        font-size: 16px;
+        margin: 0;
+        font-weight: 600;
+    }
+
+    .dsubheader .breadcrumb-item {
+        font-size: 11px;
+    }
+
+    .buttonab-small {
+        height: 35px;
+        text-align: center;
+        border-radius: 5px;
+        font-size: 13px;
+        font-weight: 500;
+        background: #ef4b46;
+        line-height: 34px;
+        color: #fff;
+        min-width: 80px;
+        border: 1px solid #ef4b46;
+        moz-transition: all .4s ease-in-out;
+        -o-transition: all .4s ease-in-out;
+        -webkit-transition: all .4s ease-in-out;
+        transition: all .4s ease-in-out;
+        display: inline-block;
+    }
+
+    /*=========================================*/
+    .location {
+        height: 35px;
+        font-size: 9px;
+        width: 122px;
+        border: 1px solid #ddd;
+        margin-right: 5px;
+        margin-left: 10px;
+    }
+
+    .sign-label {
+        display: none;
+    }
+
+    .header-right .icon-box-icon {
+        width: 35px;
+        height: 35px;
+        border: 1px solid #ddd;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: 5px;
+        font-size: 14px;
+        margin-right: 0px !important;
+    }
+
+    .tablist ul li {
+        font-size: 12px;
+    }
+
+    .dealerinve-box-list ul li {
+        display: inline-block;
+        padding: 0px 15px 10px 0px;
+        margin-right: 15px;
+        position: relative;
+        width: 28%;
+        line-height: 21px;
+    }
+
+    .dealerinve-box-list ul li span {
+        font-size: 11px;
+        color: #888;
+    }
+
+    .dealerinve-box-list ul li p {
+        margin-bottom: 0px;
+        font-weight: 600;
+        text-transform: capitalize;
+        font-size: 13px;
+    }
+
+    /*=========================================*/
+    .mySwiper2 .swiper-slide img {
+        width: 100%;
+        position: relative;
+        height: 268px;
+        object-fit: cover;
+        border-radius: 5px;
+        box-shadow: rgb(33 33 33 / 6%) 0 4px 24px 5px;
+    }
+
+    .mySwiper {
+        margin-bottom: 20px;
+    }
+
+    .mySwiper .swiper-slide img {
+        width: 100%;
+        position: relative;
+        height: 85px;
+        object-fit: cover;
+        border-radius: 5px;
+        box-shadow: rgb(33 33 33 / 6%) 0 4px 24px 5px;
+    }
+
+    /*=========================================*/
+    .dealerlogin-section {
+        width: 100%;
+        height: 100%;
+        display: flex;
+        background-color: #FAFAFA;
+        position: absolute;
+        left: 0;
+        top: 0;
+        flex-direction: column;
+    }
+
+    .dealerlogin-section .delleft {
+        width: 100%;
+        background-color: #FAFAFA;
+        height: 100%;
+        padding: 50px;
+        text-align: center;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .dealerlogin-section .delright {
+        width: 100%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+        padding: 25px;
+        background: #fff;
+    }
+
+    /*=========================================*/
+    .vehicaltab-size .nav {
+        display: flex;
+        overflow-x: scroll;
+        flex-wrap: nowrap;
+        justify-content: flex-start;
+    }
+
+    .vehicaltab-size .nav-tabs .nav-link {
+        min-width: 100px;
+        font-size: 11px;
+        padding: 0.7rem 0.7rem 0.3rem;
+        border-radius: 5px;
+    }
+
+    .vehicaltab-size .nav-tabs .nav-link .img-box {
+        margin-bottom: 0px;
+    }
+
+    /*=========================================*/
+    .carbox {
+        border-radius: 5px;
+    }
+
+    .carbox .carboximg img {
+        border-radius: 5px 5px 0px 0px;
+        height: 150px;
+    }
+
+    .carbox .carboxcontent {
+        padding: 10px;
+        width: 100%;
+        position: relative;
+    }
+
+    .mcarbox .carboximg img {
+
+        height: 100%;
+    }
+
+    .mcarbox .carboxcontent {
+        padding: 10px;
+        width: 100%;
+        position: relative;
+    }
+
+    .carbox h3 {
+        font-size: 14px;
+    }
+
+    .carbox ul li {
+        display: inline-block;
+        font-size: 11px;
+        color: #6c757d;
+        text-transform: capitalize;
+        position: relative;
+    }
+
+    .carbox ul li:not(:first-child) {
+        margin-left: 0.7em;
+    }
+
+    .carbox ul li:not(:first-child)::before {
+        background: #009193;
+        border-radius: 50%;
+        content: "";
+        display: inline-block;
+        height: 2px;
+        left: -4px;
+        position: absolute;
+        top: 50%;
+        width: 2px;
+    }
+
+    .carboxprice-sale {
+        font-size: 14px;
+        font-weight: 600;
+    }
+
+    /*=========================================*/
+    .carboxm-big {
+        display: flex;
+        padding: 10px;
+    }
+
+    .carboxm-big .carboximg {
+        width: 200px;
+        position: relative;
+        overflow: hidden;
+    }
+
+    /* .carboxm-big .carboximg img {
+        height: 100px;
+        border-radius: 5px;
+    } */
+
+    .carboxm-big .carboxcontent {
+        padding: 0px 25px 10px 15px;
+    }
+
+    .carboxm-big h3 {
+        font-size: 13px;
+        margin-bottom: 5px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        display: -webkit-box;
+        -webkit-line-clamp: 2;
+        -webkit-box-orient: vertical;
+        font-weight: 500;
+        line-height: 20px;
+    }
+
+    .carboxm-big ul li {
+        display: inline-block;
+        font-size: 12px;
+        color: #6c757d;
+        text-transform: capitalize;
+        position: relative;
+    }
+
+    .carboxm-big .carboxprice-sale {
+        font-size: 16px;
+        font-weight: 600;
+    }
+
+    /*=========================================*/
+    .brandbox {
+        height: 90px;
+        border-radius: 5px;
+        box-shadow:  1px 1px 0px 0px #d3d3d3;
+       
+    }
+
+    .brandbox img {
+        width: 100px;
+        ;
+        margin-bottom: 5px;
+    }
+
+    .brandbox p {
+        font-size: 12px;
+    }
+
+    /*=========================================*/
+    .page-title {
+        font-size: 16px;
+        font-weight: 600;
+    }
+
+    /*=========================================*/
+    .accordion-button {
+        font-size: 12px;
+        padding: 1rem 0.75rem;
+    }
+
+    /*=========================================*/
+    .homeslider h2 {
+        font-size: 24px;
+        font-weight: 600;
+    }
+
+    .vehicalsearch {
+        max-width: 100%;
+        padding: 0 15px;
+        width: 100%;
+        margin: 30px auto 0px;
+    }
+
+    .vehicalsearchform {
+        display: flex;
+        z-index: 2;
+        width: 100%;
+        background: #fff;
+        border-radius: 10px;
+        padding: 15px;
+        box-shadow: 0 3px 6px 0 rgba(0, 0, 0, .16);
+        position: relative;
+        flex-direction: column;
+    }
+
+    .vehicalsearch .vehicalsearchbottom {
+        content: "";
+        display: block;
+        position: absolute;
+        bottom: -9px;
+        left: 0;
+        background: #fff;
+        width: 100%;
+        height: 50%;
+        border-bottom-left-radius: 10px;
+        border-bottom-right-radius: 10px;
+        opacity: .59;
+    }
+
+    .vehicalsearchform .vehicalsearchform-field {
+        margin: 5px 0px;
+        width: 100%;
+    }
+
+    .vehicalsearchform-buuton .vehica-button {
+        width: 100%;
+        height: 53px;
+        padding-left: 0;
+        padding-right: 0;
+        border-radius: 10px;
+        background-color: #e40d06;
+        border: 0 solid transparent;
+        box-shadow: none;
+        cursor: pointer;
+        overflow: hidden;
+        display: inline-block;
+        font-size: 17px;
+        line-height: 21px;
+        font-weight: 600;
+        text-align: center;
+        color: #fff;
+    }
+
+    .vehicalsearchform-buuton {
+        margin-left: 0;
+        margin-top: 5px;
+    }
+
+    /*=========================================*/
+    .siderbar-filter {
+        display: none;
+    }
+
+    .sidenav-trigger {
+        display: block;
+        margin-right: 15px;
+        cursor: pointer;
+    }
+
+    .side-menu-icon img {
+        width: 20px;
+    }
+
+    /*=========================================*/
+    .icbox {
+        width: 100%;
+        position: relative;
+        flex-direction: column;
+        justify-content: center;
+        text-align: center;
+    }
+
+    .icbox .icbox-img {
+        margin-right: 0px;
+        margin-bottom: 10px;
+    }
+
+    .icbox svg {
+        width: 62px;
+        display: inline-block;
+        height: 62px;
+        margin: 0 auto;
+    }
+
+    .icbox h5 {
+        font-size: 16px;
+        font-weight: 600;
+        margin-bottom: 0px;
+    }
+
+    .icbox p {
+        font-size: 12px;
+    }
+
+    .whatsapp img {
+        width: 42px;
+    }
+
+    /*=========================================*/
+
+    .vehicaldet-footer {
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+        z-index: 9999999;
+        background: #fff;
+        display: flex;
+        align-items: center;
+        padding: 10px 15px;
+        margin: 0px;
+    }
+
+    .vehicaldetbox-price {
+        font-weight: 700;
+        font-size: 20px;
+        width: 200px;
+    }
+
+    .vehicaldetbox-buttongroup {
+        margin-top: 0px;
+        margin-left: auto;
+        flex: 1;
+    }
+
+    .vehicaldetbox-buttongroup button {
+        height: 45px;
+        line-height: 38px;
+    }
+
+    /*=========================================*/
+
+
+    .sellsection-whychoosebikesetu {
+        padding: 20px 0px;
+    }
+
+    .sellsection-botttom {
+        width: 100%;
+        position: relative;
+        margin-top: -160px;
+
+    }
+
+
+    .sellsection-botttom .sellsection-botttom-image {
+        width: 100%;
+        text-align: center;
+    }
+
+    .sellsection-botttom-image img {
+        width: 100%;
+
+    }
+
+    .doneimg {
+        max-width: 258px;
+    }
+
+    .enqure {
+        width: 100%;
+    }
+
+    .productImage img {
+        width: 325px;
+        height: 264px;
+        margin-top: 0px;
+    }
+
+    /* .SellEVrform {
+        height: 1000px;
+    } */
+}
+
+/*=========================================*/
+@media (min-width: 576px) {
+    .container-fluid {
+        max-width: 540px;
+    }
+
+
+
+}
+
+@media (min-width: 768px) {
+    .container-fluid {
+        max-width: 720px;
+    }
+
+    .sellsection-botttom {
+        width: 100%;
+        position: relative;
+        margin-top: -230px;
+
+    }
+
+    .talktoexpert {
+        color: #009193;
+        float: right;
+
+        margin-left: auto;
+        font-size: 14px;
+        font-weight: 800;
+        font-family: sans-serif;
+        padding: 2px 14px 2px 14px;
+
+    }
+
+}
+
+@media (min-width: 992px) {
+    .container-fluid {
+        max-width: 960px;
+    }
+}
+
+@media (min-width: 1200px) {
+    .container-fluid {
+        max-width: 1140px;
+    }
+
+    .Gallery {
+        width: 500px;
+        height: 400px;
+
+    }
+}
+
+
+@media screen and (orientation: landscape) {
+    #toolbar {
+        position: fixed;
+        width: 2.65em;
+        height: 100%;
+    }
+
+    /*=========================================*/
+    /*=========================================*/
+}
+
+@media (max-width: 991px) {
+    .Evmodelhome {
+        margin-top: 10px;
+        width: 100%;
+        box-shadow: 0px 9px 10px 1px #d9d9d9;
+    }
+}
+
+@media (max-width: 991px) {
+    .Evhomemdoelname {
+        font-size: 21px;
+    }
+    .Evhomeprice{
+        font-size: 21px;
+    }
+    .Evhome-bottom{
+        padding: 0px 9px 10px 7px;
+    }
+    .Evhome-top {
+        
+        white-space: initial;
+    }
+
+    .Popularmodelcol {
+        padding: 5px 20px;
+    }
+
+    .brandsheader {
+        padding: 0px;
+        font-family: Montserrat;
+        font-size: 21px;
+        
+    }
+    .Footercontain{
+        padding: 6% 8% 2% 4%;
+    }
+    .Evhome-btmtwo{
+        font-size: 11px;
+    }
+    .Evhomebtn{
+        font-size: 12px;
+        padding: 11px 11px;
+    }
+}
